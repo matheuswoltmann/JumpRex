@@ -1,0 +1,561 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\Ranking\\assets\\desktop\\ranking.JPG",
+      "PackagePath": "staticwebassets\\Ranking\\assets\\desktop\\ranking.JPG"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\Ranking\\assets\\mobile\\ranking.JPG",
+      "PackagePath": "staticwebassets\\Ranking\\assets\\mobile\\ranking.JPG"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\Ranking\\public\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Ranking\\public\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\Ranking\\public\\images\\icons\\back.svg",
+      "PackagePath": "staticwebassets\\Ranking\\public\\images\\icons\\back.svg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\Ranking\\public\\images\\icons\\close.svg",
+      "PackagePath": "staticwebassets\\Ranking\\public\\images\\icons\\close.svg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\Ranking\\public\\images\\icons\\ranking.svg",
+      "PackagePath": "staticwebassets\\Ranking\\public\\images\\icons\\ranking.svg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\Ranking\\public\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\Ranking\\public\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\Ranking\\public\\scripts\\numbersSequence.js",
+      "PackagePath": "staticwebassets\\Ranking\\public\\scripts\\numbersSequence.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\Ranking\\public\\scripts\\rankingList.js",
+      "PackagePath": "staticwebassets\\Ranking\\public\\scripts\\rankingList.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\Ranking\\public\\scripts\\rankingSave.js",
+      "PackagePath": "staticwebassets\\Ranking\\public\\scripts\\rankingSave.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\Ranking\\public\\styles\\main.css",
+      "PackagePath": "staticwebassets\\Ranking\\public\\styles\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\Ranking\\public\\styles\\partials\\ranking.css",
+      "PackagePath": "staticwebassets\\Ranking\\public\\styles\\partials\\ranking.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\Ranking\\src\\views\\ranking.html",
+      "PackagePath": "staticwebassets\\Ranking\\src\\views\\ranking.html"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\dino\\dino.html",
+      "PackagePath": "staticwebassets\\dino\\dino.html"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\dino\\game.html",
+      "PackagePath": "staticwebassets\\dino\\game.html"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\dino\\img\\background.png",
+      "PackagePath": "staticwebassets\\dino\\img\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\dino\\img\\cactus.png",
+      "PackagePath": "staticwebassets\\dino\\img\\cactus.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\dino\\img\\desktop.ini",
+      "PackagePath": "staticwebassets\\dino\\img\\desktop.ini"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\dino\\img\\dino.png",
+      "PackagePath": "staticwebassets\\dino\\img\\dino.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\dino\\img\\example.png",
+      "PackagePath": "staticwebassets\\dino\\img\\example.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\dino\\pontuacao.css",
+      "PackagePath": "staticwebassets\\dino\\pontuacao.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\dino\\pontuacao.html",
+      "PackagePath": "staticwebassets\\dino\\pontuacao.html"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\dino\\pontuacao.js",
+      "PackagePath": "staticwebassets\\dino\\pontuacao.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\dino\\script.js",
+      "PackagePath": "staticwebassets\\dino\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\dino\\style.css",
+      "PackagePath": "staticwebassets\\dino\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\login\\css\\menu.css",
+      "PackagePath": "staticwebassets\\login\\css\\menu.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\login\\css\\signin.css",
+      "PackagePath": "staticwebassets\\login\\css\\signin.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\login\\css\\signup.css",
+      "PackagePath": "staticwebassets\\login\\css\\signup.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\login\\html\\signin.html",
+      "PackagePath": "staticwebassets\\login\\html\\signin.html"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\login\\html\\signup.html",
+      "PackagePath": "staticwebassets\\login\\html\\signup.html"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\login\\images\\pexels-specna-arms-889709.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\pexels-specna-arms-889709.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\login\\images\\pexels-tima-miroshnichenko-6090793.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\pexels-tima-miroshnichenko-6090793.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\login\\images\\signin.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\signin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\login\\images\\signup.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\signup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\login\\js\\index.js",
+      "PackagePath": "staticwebassets\\login\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\login\\js\\signin.js",
+      "PackagePath": "staticwebassets\\login\\js\\signin.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\login\\js\\signup.js",
+      "PackagePath": "staticwebassets\\login\\js\\signup.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\css\\style.css",
+      "PackagePath": "staticwebassets\\site\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\Cleiton.jpeg",
+      "PackagePath": "staticwebassets\\site\\images\\Cleiton.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\Jump Rex 1.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\Jump Rex 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\Jump Rex 2.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\Jump Rex 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\Kauha.jpeg",
+      "PackagePath": "staticwebassets\\site\\images\\Kauha.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\LOGO JUMP REX BRANCA.png",
+      "PackagePath": "staticwebassets\\site\\images\\LOGO JUMP REX BRANCA.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\LOGO SHOOTER BRANCA.png",
+      "PackagePath": "staticwebassets\\site\\images\\LOGO SHOOTER BRANCA.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\Matheus.jpeg",
+      "PackagePath": "staticwebassets\\site\\images\\Matheus.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\REX 2.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\REX 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\Rex.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\Rex.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\Shooter 1.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\Shooter 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\Shooter 2.jpg",
+      "PackagePath": "staticwebassets\\site\\images\\Shooter 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\about-img.jpeg",
+      "PackagePath": "staticwebassets\\site\\images\\about-img.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\blog-1.jpeg",
+      "PackagePath": "staticwebassets\\site\\images\\blog-1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\blog-2.jpeg",
+      "PackagePath": "staticwebassets\\site\\images\\blog-2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\blog-3.jpeg",
+      "PackagePath": "staticwebassets\\site\\images\\blog-3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\cart-item-1.png",
+      "PackagePath": "staticwebassets\\site\\images\\cart-item-1.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\cart-item-2.png",
+      "PackagePath": "staticwebassets\\site\\images\\cart-item-2.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\cart-item-3.png",
+      "PackagePath": "staticwebassets\\site\\images\\cart-item-3.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\cart-item-4.png",
+      "PackagePath": "staticwebassets\\site\\images\\cart-item-4.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\desktop.ini",
+      "PackagePath": "staticwebassets\\site\\images\\desktop.ini"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\home-img.jpeg",
+      "PackagePath": "staticwebassets\\site\\images\\home-img.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\logo.png",
+      "PackagePath": "staticwebassets\\site\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\menu-1.png",
+      "PackagePath": "staticwebassets\\site\\images\\menu-1.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\menu-2.png",
+      "PackagePath": "staticwebassets\\site\\images\\menu-2.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\menu-3.png",
+      "PackagePath": "staticwebassets\\site\\images\\menu-3.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\menu-4.png",
+      "PackagePath": "staticwebassets\\site\\images\\menu-4.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\menu-5.png",
+      "PackagePath": "staticwebassets\\site\\images\\menu-5.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\menu-6.png",
+      "PackagePath": "staticwebassets\\site\\images\\menu-6.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\pic-1.png",
+      "PackagePath": "staticwebassets\\site\\images\\pic-1.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\pic-2.png",
+      "PackagePath": "staticwebassets\\site\\images\\pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\pic-3.png",
+      "PackagePath": "staticwebassets\\site\\images\\pic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\product-1.png",
+      "PackagePath": "staticwebassets\\site\\images\\product-1.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\product-2.png",
+      "PackagePath": "staticwebassets\\site\\images\\product-2.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\product-3.png",
+      "PackagePath": "staticwebassets\\site\\images\\product-3.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\images\\quote-img.png",
+      "PackagePath": "staticwebassets\\site\\images\\quote-img.png"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\js\\script.js",
+      "PackagePath": "staticwebassets\\site\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\CTI\\JOGO ARDUINO 3° SEMESTRE CTI 2023\\dotnet\\wwwroot\\site\\site.html",
+      "PackagePath": "staticwebassets\\site\\site.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.dotnet.props",
+      "PackagePath": "build\\dotnet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.dotnet.props",
+      "PackagePath": "buildMultiTargeting\\dotnet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.dotnet.props",
+      "PackagePath": "buildTransitive\\dotnet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.dotnet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
